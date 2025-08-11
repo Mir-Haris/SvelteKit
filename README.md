@@ -34,4 +34,6 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
-It is deployed at : https://svelte-kit-smoky.vercel.app/
+It is deployed at : 
+https://svelte-kit-smoky.vercel.app/
+https://sveltekit-haris.netlify.app/
